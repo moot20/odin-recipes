@@ -1,0 +1,23 @@
+.headline {
+  color: white;
+  background-color: navy;
+  text-align: center;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.list {
+  font-size: 32px;
+}
+
+.home {
+  text-align: center;
+}
+
+.recipe {
+  color: white;
+  background-color: navy;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
